@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Primesh Marasinghe</h1>
 <h3 align="center">A passionate Data science undergraduate and frontend developer from Srilanka</h3>
-
+<img align ="right" ali="coding" width="400" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcarlyberry.design%2Fportrait-animated-gif&ved=0CBUQjRxqFwoTCNCl-8zZ6pIDFQAAAAAdAAAAABAH&opi=89978449"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="primemarasinghe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=primemarasinghe" alt="primemarasinghe" /></a> </p>
