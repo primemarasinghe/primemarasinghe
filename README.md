@@ -9,6 +9,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/my-coding.gif" 
+     width="400" 
+     alt="Coding GIF" 
+     align="right" />
 
 - 🔭 I’m currently study on **SLIIT Specialized in DS**
 
