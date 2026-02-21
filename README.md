@@ -269,6 +269,11 @@
 </span>
 
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/banner.png"
+       alt="Banner"
+       style="width:100%; max-width:100%;" />
+</p>
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
     <defs>
         <style/>
@@ -1327,8 +1332,3 @@
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/banner.png"
-       alt="Banner"
-       style="width:100%; max-width:100%;" />
-</p>
