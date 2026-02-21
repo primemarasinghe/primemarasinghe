@@ -7,7 +7,7 @@
      alt="coding GIF" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Profile%20Views-👁️‍🗨️-blueviolet?style=for-the-badge&logoColor=white" alt="Profile Views" />
 </p>
 
 - 🔭 I’m currently study on **SLIIT Specialized in DS**
