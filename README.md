@@ -9,6 +9,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=primemarasinghe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20Views-👁️‍🗨️-brightgreen?style=flat-square" alt="Profile Views" />
+</p>
 
 - 🔭 I’m currently study on **SLIIT Specialized in DS**
 
