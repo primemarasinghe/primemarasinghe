@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Primesh Marasinghe</h1>
 <h3 align="center">A passionate Data science undergraduate and frontend developer from Srilanka</h3>
-<img align="right" width="400" src="https://github.com/user-attachments/assets/45205e6c-ba88-498b-bff8-458795c0642e" alt="coding" />
+<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" 
+     width="400" 
+     alt="coding GIF" 
+     align="right" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="primemarasinghe" />
