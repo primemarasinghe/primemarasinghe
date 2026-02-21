@@ -6,7 +6,8 @@
      align="right"
      alt="coding GIF" />
 
-  <img src="https://img.shields.io/badge/Profile%20Views-👁️‍🗨️-brightgreen?style=flat-square" alt="Profile Views" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20Views-👀-blue?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 - 🔭 I’m currently study on **SLIIT Specialized in DS**
