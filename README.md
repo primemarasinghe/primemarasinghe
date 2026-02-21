@@ -269,7 +269,7 @@
 </span>
 
 </p>
-<img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif.gif" 
+<img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
      width="400" 
      alt="Coding GIF" 
      align="center" />
