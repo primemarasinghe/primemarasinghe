@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Primesh Marasinghe</h1>
-<h3 align="center">A passionate Data science undergraduate and frontend developer from Srilanka</h3>
-<img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" 
-     width="400" 
-     alt="coding GIF" 
-     align="right" />
+<h3 align="center">A passionate Data Science undergraduate and Frontend Developer from Sri Lanka</h3>
+
+<img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/TNCR-graphics-KB-2.gif"
+     width="400"
+     align="right"
+     alt="coding GIF" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="primemarasinghe" />
+  <img src="https://komarev.com/ghpvc/?username=primemarasinghe&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=primemarasinghe" alt="primemarasinghe" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=primemarasinghe&theme=darkhub&no-frame=true&margin-w=5" />
 </p>
 
 - 🔭 I’m currently study on **SLIIT Specialized in DS**
