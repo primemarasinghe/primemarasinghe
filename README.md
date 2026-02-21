@@ -270,7 +270,7 @@
 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/banner.gif"
+  <img src="https://raw.githubusercontent.com/primemarasinghe/primemarasinghe/main/banner.png"
        alt="Banner"
        style="width:100%; max-width:100%;" />
 </p>
