@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 👨‍💻 All of my projects are available at [https://primeshportfolio.vercel.app](https://primeshportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://primeshportfolio.vercel.app](https://primesh-three.vercel.app)
 
 - 💬 Ask me about **Java and python**
 
